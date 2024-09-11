@@ -1,6 +1,6 @@
 # web4WalletConnect v3.x.x
 
-Open protocol for connecting Wallets to Dapps - https://walletconnect.com
+Open protocol for connecting Wallets to Dapps - 
 
 ## Setup
 
