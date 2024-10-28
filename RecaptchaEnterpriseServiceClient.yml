@@ -25,7 +25,7 @@ async function createAssessment({
     assessment: {
       event: {
         token: token,
-        siteKey: 6LfJpPcpAAAAAHIj2W9HtjMs_6mBoWy_JQGyL36g
+        siteKey: '6LfJpPcpAAAAAHIj2W9HtjMs_6mBoWy_JQGyL36g'
       },
     },
     parent: projectPath,
