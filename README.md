@@ -13,7 +13,7 @@ Open protocol for connecting Wallets to Dapps - [web4wallet](https://web4applica
 To ensure all packages lint, build and test correctly, we can run the following command from the root folder:
 
 > **For tests to pass in the following command, you will need your own `TEST_PROJECT_ID` value**,
-> which will be generated for you when you set up a new project on [web4walletcloud](https://cloud.walletconnect.com).
+> which will be generated for you when you set up a new project on [web4walletcloud](https://com.web4wallet.cloud).
 
 ```zsh
 TEST_PROJECT_ID=YOUR_PROJECT_ID npm run check
