@@ -1,5 +1,6 @@
 # web4Wallet
 
+[![web4wallet](https://github.com/Web4application/web4walletconnect/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/Web4application/web4walletconnect/actions/workflows/jekyll-gh-pages.yml)
 Open protocol for connecting Wallets to Dapps - [web4wallet](https://web4application.github.io/web4walletconnect/)
 
 ## Setup
